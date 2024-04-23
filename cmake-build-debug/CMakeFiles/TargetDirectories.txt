@@ -1,0 +1,4 @@
+C:/Users/11967/CLionProjects/TCPMultiThreadServer/cmake-build-debug/CMakeFiles/TCPMultiThreadServer.dir
+C:/Users/11967/CLionProjects/TCPMultiThreadServer/cmake-build-debug/CMakeFiles/TCPNBClient.dir
+C:/Users/11967/CLionProjects/TCPMultiThreadServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11967/CLionProjects/TCPMultiThreadServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
